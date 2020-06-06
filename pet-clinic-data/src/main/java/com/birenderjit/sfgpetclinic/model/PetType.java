@@ -1,4 +1,4 @@
-package com.birenderjit.model;
+package com.birenderjit.sfgpetclinic.model;
 
 public class PetType {
 
